@@ -1,0 +1,7 @@
+{
+  "name": "Ascendant - Performance Control Station",
+  "description": "A high-precision personal performance control station featuring minimalist design, AI-driven insights, and detailed activity tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
